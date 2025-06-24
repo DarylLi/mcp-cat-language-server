@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "cat-language": {
+      "command": "npx",
+      "args": ["-y", "mcp-cat-language-server"],
+      "cwd": "/Users/daryl/chat-mcp",
+      "env": {
+        "NODE_ENV": "production"
+      }
+    }
+  }
+} 

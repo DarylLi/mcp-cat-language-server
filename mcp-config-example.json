@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "cat-language": {
+      "command": "node",
+      "args": ["/Users/daryl/chat-mcp/dist/index.js"],
+      "env": {}
+    }
+  }
+} 
